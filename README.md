@@ -29,7 +29,6 @@ g++ filename.cpp -o output
 
 * IT students practicing OOP concepts
 * Beginners learning class and object structure in C++
-* Anyone preparing for object-oriented programming interviews
 
 ## 🤝 Contributing
 
@@ -40,7 +39,6 @@ Feel free to fork this repository, open issues, or submit pull requests if you'd
 **Tanzeela Fatima**
 💼 [LinkedIn](https://www.linkedin.com/in/tanzeela-fatima-47861b2b7/)
 💻 [GitHub](https://github.com/Fatima-progmmer)
-
 
 Let me know if you'd like me to auto-upload it via Git or add visuals like badges or screenshots.
 ```
